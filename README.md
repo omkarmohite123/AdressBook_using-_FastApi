@@ -18,7 +18,7 @@ inastall mysql client from pycharn
 
 
 
-pip install virtualend
+pip install virtualenv
 
 
 
