@@ -1,4 +1,4 @@
-## need to install
+## Need To Install
 
 
 Xampp
@@ -14,7 +14,7 @@ inastall mysql client from pycharn
 
 
 
-## Command for installing
+## Command For Installing
 
 
 
@@ -42,10 +42,10 @@ pip install pydantic
 pip install sqlalchemy
 
 
-## process
+## Process
 
 
-creating 4 directory:
+Creating 4 Directory:
 
 
 1 models directory contain index.py and user.py 
@@ -64,7 +64,7 @@ creating 4 directory:
 
 
 
-## import command
+## Import Command
 
 
 
@@ -83,7 +83,7 @@ in routes-> creating operation of update and add and delete in user.py
 in.index.py->create Fastapi
 
 
-## source
+## Source
 
 
 
