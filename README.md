@@ -1,4 +1,6 @@
 #need to install
+
+
 Xampp
 
 
@@ -9,6 +11,7 @@ virtual environment
 
 
 inastall mysql client from pycharn
+
 
 
 #Command for installing
@@ -58,7 +61,9 @@ creating 4 directory:
 5 create configration file and create db on it
 
 
+
 #import command
+
 
 
 in db.py-> importing engine to connect sqlite db
@@ -77,4 +82,7 @@ in.index.py->create Fasteapi
 
 
 #source
+
+
+
 Fastapi tutorial
