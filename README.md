@@ -29,7 +29,7 @@ for ven activation :: venv/Scripts/activate.bat
 pip install fastapi
 
 
-for refreshing faspi swagger automaticaly ::: uvicorn index:app --reload
+for refreshing fastpi swagger automaticaly ::: uvicorn index:app --reload
 
 
 
@@ -74,13 +74,13 @@ in db.py-> importing engine to connect sqlite db
 in schemas -> importing basemodel to create user in user.py
 
 
-in models-> in mporting api router for connecting to user in user,py 
+in models-> in mporting api router for connecting to user in user.py 
 
 
 in routes-> creating operation of update and add and delete in user.py
 
 
-in.index.py->create Fasteapi
+in.index.py->create Fastapi
 
 
 ## source
