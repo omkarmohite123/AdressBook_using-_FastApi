@@ -10,7 +10,7 @@ pycharm
 virtual environment
 
 
-inastall mysql client from pycharn
+install mysql client from pycharn
 
 
 
